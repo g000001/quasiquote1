@@ -1,1 +1,4 @@
-This is the stub README.org for the "quasiquote1" project.
+# quasiquote1
+
+* Yet Another Quasiquote
+* License: Unlicense
